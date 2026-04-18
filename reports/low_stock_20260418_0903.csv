@@ -1,0 +1,3 @@
+ID,Product,Category,Quantity,Threshold,Unit,Status,Deficit
+3,Bolt M10,Spare Parts,5,50,pieces,🔴 LOW,45
+1,Steel Pipe,Spare Parts,50,100,pieces,🔴 LOW,50

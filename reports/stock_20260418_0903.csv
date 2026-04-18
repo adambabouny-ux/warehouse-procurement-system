@@ -1,0 +1,4 @@
+ID,Product,Category,Quantity,Threshold,Unit,Status
+3,Bolt M10,Spare Parts,5,50,pieces,🔴 LOW
+2,Chemical X,Chemicals,200,50,liters,✅ OK
+1,Steel Pipe,Spare Parts,50,100,pieces,🔴 LOW
